@@ -22,7 +22,7 @@ Status: em fase final de configuração.
 **O que é:**
 
 
-**Por que PDI:**
+**Por que Arbitra-IA:**
 
 
 **Os produtos:**
